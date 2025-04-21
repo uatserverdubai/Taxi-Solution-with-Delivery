@@ -1,0 +1,2 @@
+E:/foodking/release-v3.0/foodking-customer-app/android/app/.cxx/RelWithDebInfo/s3q454z3/x86_64/CMakeFiles/edit_cache.dir
+E:/foodking/release-v3.0/foodking-customer-app/android/app/.cxx/RelWithDebInfo/s3q454z3/x86_64/CMakeFiles/rebuild_cache.dir

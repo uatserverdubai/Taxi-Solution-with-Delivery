@@ -1,0 +1,2 @@
+C:/checking update 25/foodking-delivery-app/android/app/.cxx/RelWithDebInfo/3g5o1lo1/x86/CMakeFiles/edit_cache.dir
+C:/checking update 25/foodking-delivery-app/android/app/.cxx/RelWithDebInfo/3g5o1lo1/x86/CMakeFiles/rebuild_cache.dir
