@@ -1,6 +1,3 @@
-# Taxi-Solution-with-Delivery
-Transform your transportation business with this powerful Ride and Goods Delivery Management System
-
 Basic :
 
 To install, set up, and publish Taxi Delivery Solution with your branding, it's necessary to possess fundamental knowledge in both server-side 
